@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#principal{
+    
+}
+#principal__article{
+
+}
+
+button{
+    display: flex;
+    font-size: 20px;
+    margin: 15px 0 0 20px;
+    padding: 20px;
+    background-color: chocolate;
+    color: white;
+}
+
+.teste1:hover{
+    background-color: pink;
+    
+}
+.teste2:hover{
+    transform: rotate(45deg);
+}
+.teste3:hover{
+    color: rgb(30, 210, 126);
+    transition: color 0.35 ease;
+}
